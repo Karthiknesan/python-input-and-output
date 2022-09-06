@@ -1,11 +1,6 @@
 <html>
    <p >
    <head>
-   <style>
-      h1 {
-         background-color:black;
-       }
-   </style>
       <h1 style=color:antiquewhite align=center>
          Hi guys,I am karthik Arumugam   
       </h1>
